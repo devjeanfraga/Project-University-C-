@@ -1,7 +1,6 @@
 # 🎓 Projeto Universitário
-- Calcular o valor do carro
 
-#### 📃 CONTEXTUALIZAÇÃO: CÁLCULO DO PREÇO DE UM AUTOMÓVEL 0 KM DE UMA FÁBRICA.
+#### 🎯 CONTEXTUALIZAÇÃO: CÁLCULO DO PREÇO DE UM AUTOMÓVEL 0 KM DE UMA FÁBRICA.
 
 Uma fábrica de veículos novos necessita de um sistema para o cálculo do preço de um
 automóvel 0 km que varia de acordo com os opcionais que o cliente deseja. Há 4
